@@ -1,3 +1,3 @@
 ### Ceci est un readme
 
-NOus sommes aen V.1
+Nous sommes en V.1.1
